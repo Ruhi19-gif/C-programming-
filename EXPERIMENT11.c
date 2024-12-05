@@ -78,7 +78,7 @@ Employee Database Menu:
 3.⁠ ⁠Exit
 Enter your choice: 1
 Enter Employee ID: 12
-Enter Employee Name: MUNTU
+Enter Employee Name: RUHI
 Enter Employee Salary: 1000000
 Employee record added successfully!
 
@@ -91,8 +91,8 @@ Enter your choice: 2
 Employee Records:
 ID      Name            Salary
 ------------------------------------
-12      RUHI          1000000.00
-12      RUHI          1000000.00
+12     RUHI          1000000.00
+12     RUHI          1000000.00
 
 Employee Database Menu:
 1.⁠ ⁠Add Employee Record
